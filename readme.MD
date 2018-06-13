@@ -1,6 +1,6 @@
 The Repository contains some scala and spark sql programs :
 
-## 1 . Mutual Friends.
+## Question 1 . Mutual Friends.
  find total number of common friends for any possible friend pairs.
 
 ## Question 2: Top10FriendsPair
@@ -13,3 +13,9 @@ List the business_id, full address and categories of the Top 10 mostly-reviewed 
 
 ## Question 4:PaloAltoRating.
 List the 'user id' and 'rating' of users that reviewed businesses located in “Palo Alto”
+
+## Question 5: Collabrative Filtering of Movie Data Using ALS.
+
+## Question 6: Movie Review Using Movie Lens Dataset.
+
+## Question 7: Sentiment Analysis of Twitter Stream using Stanford NLP.
